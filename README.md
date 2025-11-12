@@ -1,6 +1,6 @@
 **Installation**
 1. Clone the repo to your local machine using ``git clone git@github.com:Seaningthon/hptd.git``
-2. Build the docker image using ``docker build . -t <image name>``
+2. Build the docker image using ``docker build . -t <image name>``. This step might take 2-3 hours and take up 50GB of space
 
 **Running the model**
 
